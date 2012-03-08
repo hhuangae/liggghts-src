@@ -22,6 +22,8 @@ IntegrateStyle(verlet,Verlet)
 
 #include "integrate.h"
 
+# this is a nasty comment!!
+
 namespace LAMMPS_NS {
 
 class Verlet : public Integrate {
